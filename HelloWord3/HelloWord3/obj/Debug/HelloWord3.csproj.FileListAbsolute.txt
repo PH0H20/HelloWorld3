@@ -1,0 +1,8 @@
+C:\Users\w0453103\OneDrive - Nova Scotia Community College\Logic and Programming\HelloWord3\HelloWord3\bin\Debug\HelloWord3.exe.config
+C:\Users\w0453103\OneDrive - Nova Scotia Community College\Logic and Programming\HelloWord3\HelloWord3\bin\Debug\HelloWord3.exe
+C:\Users\w0453103\OneDrive - Nova Scotia Community College\Logic and Programming\HelloWord3\HelloWord3\bin\Debug\HelloWord3.pdb
+C:\Users\w0453103\OneDrive - Nova Scotia Community College\Logic and Programming\HelloWord3\HelloWord3\obj\Debug\HelloWord3.csproj.AssemblyReference.cache
+C:\Users\w0453103\OneDrive - Nova Scotia Community College\Logic and Programming\HelloWord3\HelloWord3\obj\Debug\HelloWord3.csproj.SuggestedBindingRedirects.cache
+C:\Users\w0453103\OneDrive - Nova Scotia Community College\Logic and Programming\HelloWord3\HelloWord3\obj\Debug\HelloWord3.csproj.CoreCompileInputs.cache
+C:\Users\w0453103\OneDrive - Nova Scotia Community College\Logic and Programming\HelloWord3\HelloWord3\obj\Debug\HelloWord3.exe
+C:\Users\w0453103\OneDrive - Nova Scotia Community College\Logic and Programming\HelloWord3\HelloWord3\obj\Debug\HelloWord3.pdb
